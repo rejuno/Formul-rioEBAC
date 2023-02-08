@@ -1,0 +1,42 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+@font-face {
+    font-family: Dogica;
+    src: url('dogica.ttf'), url('dogicabold.ttf'),url('dogicapixel.ttf'), url('dogicapixelbold.ttf');
+}
+body{
+    background-color: #1C4F75;
+}
+section{
+    background-color: #84C4F4;
+    font-family: 'Dogica';
+    margin-top: 15%;
+}
+h1{
+    padding-top: 20px;
+}
+form{
+    padding: 25px;
+}
+
+div{
+    padding-bottom: 15px;
+}
+.centro{
+    text-align: center;
+}
+div p{
+    padding-top: 10px;
+    font-size: 60%;
+}
+input{
+    font-size: 70%;
+    font-family: 'Dogica';
+    padding: 3px;
+}
+section div{
+    font-size: 70%;
+}
